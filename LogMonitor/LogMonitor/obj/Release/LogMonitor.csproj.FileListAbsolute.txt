@@ -1,0 +1,16 @@
+G:\Personal\LogMonitor\LogMonitor\bin\Release\LogMonitor.exe.config
+G:\Personal\LogMonitor\LogMonitor\bin\Release\LogMonitor.exe
+G:\Personal\LogMonitor\LogMonitor\bin\Release\LogMonitor.pdb
+G:\Personal\LogMonitor\LogMonitor\obj\Release\LogMonitor.csproj.CoreCompileInputs.cache
+G:\Personal\LogMonitor\LogMonitor\obj\Release\LogMonitor.exe
+G:\Personal\LogMonitor\LogMonitor\obj\Release\LogMonitor.pdb
+G:\Personal\LogMonitor\LogMonitor\obj\Release\LogMonitor.csprojResolveAssemblyReference.cache
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\bin\Release\LogMonitor.exe.config
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\bin\Release\LogMonitor.exe
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\bin\Release\LogMonitor.pdb
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\obj\Release\LogMonitor.csproj.CoreCompileInputs.cache
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\obj\Release\LogMonitor.exe
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\obj\Release\LogMonitor.pdb
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\bin\Release\LogMonitor.exe.CodeAnalysisLog.xml
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\bin\Release\LogMonitor.exe.lastcodeanalysissucceeded
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\obj\Release\LogMonitor.csprojResolveAssemblyReference.cache

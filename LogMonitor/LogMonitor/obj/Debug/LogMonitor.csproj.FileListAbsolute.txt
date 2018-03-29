@@ -1,0 +1,27 @@
+c:\users\guru kanthasamy\source\repos\LogMonitor\LogMonitor\obj\Debug\LogMonitor.csproj.CoreCompileInputs.cache
+c:\users\guru kanthasamy\source\repos\LogMonitor\LogMonitor\bin\Debug\LogMonitor.exe.config
+c:\users\guru kanthasamy\source\repos\LogMonitor\LogMonitor\bin\Debug\LogMonitor.exe
+c:\users\guru kanthasamy\source\repos\LogMonitor\LogMonitor\bin\Debug\LogMonitor.pdb
+c:\users\guru kanthasamy\source\repos\LogMonitor\LogMonitor\obj\Debug\LogMonitor.exe
+c:\users\guru kanthasamy\source\repos\LogMonitor\LogMonitor\obj\Debug\LogMonitor.pdb
+G:\Personal\LogMonitor\LogMonitor\bin\Debug\LogMonitor.exe.config
+G:\Personal\LogMonitor\LogMonitor\bin\Debug\LogMonitor.exe
+G:\Personal\LogMonitor\LogMonitor\bin\Debug\LogMonitor.pdb
+G:\Personal\LogMonitor\LogMonitor\obj\Debug\LogMonitor.csprojResolveAssemblyReference.cache
+G:\Personal\LogMonitor\LogMonitor\obj\Debug\LogMonitor.csproj.CoreCompileInputs.cache
+G:\Personal\LogMonitor\LogMonitor\obj\Debug\LogMonitor.exe
+G:\Personal\LogMonitor\LogMonitor\obj\Debug\LogMonitor.pdb
+C:\Users\Guru Kanthasamy\Desktop\LogMonitor\LogMonitor\LogMonitor\bin\Debug\LogMonitor.exe.config
+C:\Users\Guru Kanthasamy\Desktop\LogMonitor\LogMonitor\LogMonitor\bin\Debug\LogMonitor.exe
+C:\Users\Guru Kanthasamy\Desktop\LogMonitor\LogMonitor\LogMonitor\bin\Debug\LogMonitor.pdb
+C:\Users\Guru Kanthasamy\Desktop\LogMonitor\LogMonitor\LogMonitor\obj\Debug\LogMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Guru Kanthasamy\Desktop\LogMonitor\LogMonitor\LogMonitor\obj\Debug\LogMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Guru Kanthasamy\Desktop\LogMonitor\LogMonitor\LogMonitor\obj\Debug\LogMonitor.exe
+C:\Users\Guru Kanthasamy\Desktop\LogMonitor\LogMonitor\LogMonitor\obj\Debug\LogMonitor.pdb
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\bin\Debug\LogMonitor.exe.config
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\bin\Debug\LogMonitor.exe
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\bin\Debug\LogMonitor.pdb
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\obj\Debug\LogMonitor.csprojResolveAssemblyReference.cache
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\obj\Debug\LogMonitor.csproj.CoreCompileInputs.cache
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\obj\Debug\LogMonitor.exe
+G:\Personal\LogMonitor\LogMonitor\LogMonitor\obj\Debug\LogMonitor.pdb
